@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A first Post
+title: A First Post
 ---
 
 I'll update soon with some work I am doing here.
